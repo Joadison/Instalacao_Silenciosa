@@ -48,5 +48,5 @@ echo .
 echo .
 echo .
 echo ---REINCIANDO---
-nnshutdown -r -t 120
+shutdown -r -t 120
 pause
